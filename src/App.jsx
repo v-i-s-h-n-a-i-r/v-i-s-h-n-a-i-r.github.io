@@ -13,7 +13,7 @@ import './index.css';
 
 function App() {
   return (
-    <Router basename="/student-portfolio-react">
+    <Router>
       <div className="App min-h-screen flex flex-col">
         <Navbar />
         <main className="flex-grow">
